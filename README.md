@@ -1,6 +1,6 @@
 # Funko Project!
 
-Funko Project fue un proyecto realizado con el fin de replicar la tienda de funko, con sus funkos, categorías, carrito, perfiles, entre otros.
+Funko Project fue un proyecto realizado con el fin de replicar la tienda de funko, con sus funkos, categorías, carrito, perfiles, entre otros, este proyecto fue realizado por mi persona y mi compañero Diego Duarte, aquí támbien su perfil de GitHub https://github.com/diegoTech14.
 
 # Fotos del proyecto
 
