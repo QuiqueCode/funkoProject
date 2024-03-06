@@ -2,7 +2,7 @@
 
 Funko Project fue un proyecto realizado con el fin de replicar la tienda de funko, con sus funkos, categorías, carrito, perfiles, entre otros, este proyecto fue realizado por mi persona y mi compañero Diego Duarte, aquí támbien su perfil de GitHub https://github.com/diegoTech14.
 
-# Fotos del proyecto
+# Imagenes del proyecto
 
 <img width="1916" alt="funkoP" src="https://github.com/QuiqueCode/funkoProject/assets/149546547/3f9ab2d1-5feb-463a-a3a8-29c995fbd0bb">
 
