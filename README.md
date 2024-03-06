@@ -5,6 +5,8 @@ Funko Project fue un proyecto realizado con el fin de replicar la tienda de funk
 # Imagenes del proyecto
 
 <img width="1916" alt="funkoP" src="https://github.com/QuiqueCode/funkoProject/assets/149546547/3f9ab2d1-5feb-463a-a3a8-29c995fbd0bb">
+<img width="1916" alt="image" src="https://github.com/QuiqueCode/funkoProject/assets/149546547/afea3310-af40-41d9-ad6d-194ab7052ee4">
+
 
 
 ## Tecnologías utilizadas para la realización de este proyecto
