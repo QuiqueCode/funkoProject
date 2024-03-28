@@ -8,8 +8,6 @@ usuario que se loguea es administrador, puede llevar a cabo toda la gestión de 
 # Imagenes del proyecto
 ![310606148-3f9ab2d1-5feb-463a-a3a8-29c995fbd0bb](https://github.com/QuiqueCode/funkoProject/assets/149546547/7adc6f9d-933b-45e4-be02-fa9732ac671e)
 
-![310643615-afea3310-af40-41d9-ad6d-194ab7052ee4 (1)](https://github.com/QuiqueCode/funkoProject/assets/149546547/a1079373-972c-4d12-a87a-edd0ace5ef0d)
-
 ![316273231-2d0f3880-3e50-4c30-a671-ca728f6e0a5c](https://github.com/QuiqueCode/funkoProject/assets/149546547/5f6cfcb7-2844-4404-b1a7-41d157ddcb74)
 
 ![316273221-0f4957e9-9120-4368-9fe8-1186c5a6cbac](https://github.com/QuiqueCode/funkoProject/assets/149546547/16400882-9d19-4b59-902f-fad0a6e7a592)
