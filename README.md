@@ -1,9 +1,8 @@
 # Funko Project!
 
-Funko Project fue un proyecto realizado con el fin de replicar la tienda de funko, con sus funkos, categorías, carrito, perfiles, entre otros, este proyecto fue realizado por mi persona y mi compañero Diego Duarte, aquí támbien su perfil de GitHub https://github.com/diegoTech14.
-
-En este proyecto, se pueden agregar Funkos al carrito si el usuario se encuentra logueado, además de realizar una simulación de pago.
-En el navbar es dinamico dependiendo de si el usuario loggeado es administrador o usuario, si el usuario que se loguea es administrador, puede llevar a cabo toda la gestión de usuarios, Funkos, categorías, entre otros. Permite editar, crear y eliminar cada uno de estos apartados mediante las tablas de gestión del dashboard del usuario administrador.
+Funko Project es un proyecto realizado con el fin de replicar la tienda de Funko, con sus funkos, categorías, carrito, perfiles, entre otros. Este proyecto fue realizado por mi persona y mi compañero Diego Duarte, aquí támbien su perfil de GitHub https://github.com/diegoTech14.
+En este proyecto se pueden agregar funkos al carrito si el usuario se encuentra logueado, además de realizar una simulación de pago. El navbar es dinámico dependiendo de si el usuario logueado es administrador o cliente, si el
+usuario que se loguea es administrador, puede llevar a cabo toda la gestión de usuarios registrados, funkos, categorías, entre otros. El programa permite editar, crear y eliminar cada uno de estos apartados mediante las tablas de gestión del dashboard del usuario administrador.
 
 # Imagenes del proyecto
 ![310606148-3f9ab2d1-5feb-463a-a3a8-29c995fbd0bb](https://github.com/QuiqueCode/funkoProject/assets/149546547/7adc6f9d-933b-45e4-be02-fa9732ac671e)
