@@ -16,6 +16,10 @@ usuario que se loguea es administrador, puede llevar a cabo toda la gestión de 
 
 ![316273163-0dc40d21-33a3-41fe-9234-c9836b380bb1](https://github.com/QuiqueCode/funkoProject/assets/149546547/5e009276-c836-4da6-9dd2-73cebc2f5208)
 
+![popi1](https://github.com/QuiqueCode/funkoProject/assets/149546547/abe61439-2b09-4bb8-abe3-2d030dcc4ae9)
+
+![popi2](https://github.com/QuiqueCode/funkoProject/assets/149546547/c2116296-b0c7-46a7-8f8a-fe31e967d5aa)
+
 
 ## Tecnologías utilizadas para la realización de este proyecto
 
