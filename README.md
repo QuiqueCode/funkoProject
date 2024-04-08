@@ -5,16 +5,18 @@ Funko Project es un proyecto realizado con el fin de replicar la tienda de Funko
 En este proyecto se pueden agregar funkos al carrito si el usuario se encuentra logueado, además de realizar una simulación de pago. El navbar es dinámico dependiendo de si el usuario logueado es administrador o cliente, si el
 usuario que se loguea es administrador, puede llevar a cabo toda la gestión de usuarios registrados, funkos, categorías, entre otros. El programa permite editar, crear y eliminar cada uno de estos apartados mediante las tablas de gestión del dashboard del usuario administrador.
 
-# Imagenes del proyecto
+# Interfaz de usuario
 ![310606148-3f9ab2d1-5feb-463a-a3a8-29c995fbd0bb](https://github.com/QuiqueCode/funkoProject/assets/149546547/7adc6f9d-933b-45e4-be02-fa9732ac671e)
-
-![316273231-2d0f3880-3e50-4c30-a671-ca728f6e0a5c](https://github.com/QuiqueCode/funkoProject/assets/149546547/5f6cfcb7-2844-4404-b1a7-41d157ddcb74)
-
-![316273221-0f4957e9-9120-4368-9fe8-1186c5a6cbac](https://github.com/QuiqueCode/funkoProject/assets/149546547/16400882-9d19-4b59-902f-fad0a6e7a592)
 
 ![316273179-cfa9f356-6917-4b6f-a300-2cca84bd75f6](https://github.com/QuiqueCode/funkoProject/assets/149546547/1058b0ac-7be7-4a76-b10d-a3f701836faa)
 
 ![316273163-0dc40d21-33a3-41fe-9234-c9836b380bb1](https://github.com/QuiqueCode/funkoProject/assets/149546547/5e009276-c836-4da6-9dd2-73cebc2f5208)
+
+## Interfaz de admninistración
+
+![316273231-2d0f3880-3e50-4c30-a671-ca728f6e0a5c](https://github.com/QuiqueCode/funkoProject/assets/149546547/5f6cfcb7-2844-4404-b1a7-41d157ddcb74)
+
+![316273221-0f4957e9-9120-4368-9fe8-1186c5a6cbac](https://github.com/QuiqueCode/funkoProject/assets/149546547/16400882-9d19-4b59-902f-fad0a6e7a592)
 
 ![popi1](https://github.com/QuiqueCode/funkoProject/assets/149546547/abe61439-2b09-4bb8-abe3-2d030dcc4ae9)
 
