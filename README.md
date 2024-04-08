@@ -8,9 +8,10 @@ usuario que se loguea es administrador, puede llevar a cabo toda la gestión de 
 # Interfaz de usuario
 ![310606148-3f9ab2d1-5feb-463a-a3a8-29c995fbd0bb](https://github.com/QuiqueCode/funkoProject/assets/149546547/7adc6f9d-933b-45e4-be02-fa9732ac671e)
 
+![316273163-0dc40d21-33a3-41fe-9234-c9836b380bb1](https://github.com/QuiqueCode/funkoProject/assets/149546547/5e009276-c836-4da6-9dd2-73cebc2f5208)
+
 ![316273179-cfa9f356-6917-4b6f-a300-2cca84bd75f6](https://github.com/QuiqueCode/funkoProject/assets/149546547/1058b0ac-7be7-4a76-b10d-a3f701836faa)
 
-![316273163-0dc40d21-33a3-41fe-9234-c9836b380bb1](https://github.com/QuiqueCode/funkoProject/assets/149546547/5e009276-c836-4da6-9dd2-73cebc2f5208)
 
 ## Interfaz de admninistración
 
