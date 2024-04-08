@@ -21,6 +21,8 @@ usuario que se loguea es administrador, puede llevar a cabo toda la gestión de 
 
 ![popi1](https://github.com/QuiqueCode/funkoProject/assets/149546547/abe61439-2b09-4bb8-abe3-2d030dcc4ae9)
 
+## Exportación de PDF de los Funkos
+
 ![popi2](https://github.com/QuiqueCode/funkoProject/assets/149546547/c2116296-b0c7-46a7-8f8a-fe31e967d5aa)
 
 
